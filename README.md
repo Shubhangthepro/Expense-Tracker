@@ -50,4 +50,6 @@ A simple, stylish, and user-friendly web app to **track income and expenses** �
 2. Open index.html in your browser
 
 ---
+💬 Author
+Built with ❤️ by Shubhang Shrivastav(https://github.com/Shubhangthepro)
 
