@@ -42,9 +42,12 @@ A simple, stylish, and user-friendly web app to **track income and expenses** �
 ---
 ## 🧪 How to Use
 
-### 🔗 
+### 🔗 https://budgetbeee.netlify.app/
 
 ### 📥 Run Locally
 ```bash
 1. Download or clone the repository
 2. Open index.html in your browser
+
+---
+
